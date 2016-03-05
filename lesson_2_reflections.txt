@@ -1,0 +1,21 @@
+git init
+git clone
+git add
+git status
+git log
+git checkout
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It helps to collect a logical change in the code.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: If you need to add a feature and need to fix the master at the same time.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It can show unreachable commits.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: Both features can be used in the merge. To see the differences better.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: If a method is refactored you can not use automatic merging. Automatic merging can be faster.
