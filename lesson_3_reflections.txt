@@ -7,3 +7,8 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 A: - I don't want to lose the changes I made.
    - Perhaps I have a better solution to a problem.
    
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?   
+A: - A fork is only on GitHub. It makes a copy of the original and make a reference to the origin.
+   - A Clone is a copy from a remote or a local repository.
+   - A branch can be used if you want to try another way.
+   
