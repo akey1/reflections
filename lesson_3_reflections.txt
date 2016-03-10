@@ -13,5 +13,9 @@ A: - A fork is only on GitHub. It makes a copy of the original and make a refere
    - A branch can be used if you want to try another way.
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
-A: - Compare is easier.   
+A: - Compare is easier.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: - There are other versioning systems. But some are expensive. Some are old fashioned.
+   - It can be easier if you merge not very often. But the collaboration can be great with git and github.
    
