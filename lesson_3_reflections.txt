@@ -19,3 +19,7 @@ Q: How would you collaborate without using Git or GitHub? What would be easier, 
 A: - There are other versioning systems. But some are expensive. Some are old fashioned.
    - It can be easier if you merge not very often. But the collaboration can be great with git and github.
    
+Q: When would you want to make changes in a separate branch rather than directly in master? 
+   What benefits does each approach have?
+A: - If I make a working on a short or a long running feature.
+   - Then it is easyier to make a hotfix on the master or I make a hotfix branch for master.
