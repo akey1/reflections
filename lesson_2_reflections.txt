@@ -15,3 +15,6 @@ A: - I collect all changes in this area and then commit them together in one com
 Q: What are some situations when branches would be helpful in
    keeping your history organized? How would branches help?
 A: - I need to switch between a bugfix and a feature.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: - In a picture you can see faster and easier how the commits are connected together.
