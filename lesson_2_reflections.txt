@@ -1,0 +1,10 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: - A local repository would be created.
+   - In this repository i can store my files.
+
+Q: How is the staging area different from the working directory and the repository?
+   What value do you think it offers?   
+A: - The stagin area collects all files before I commit them into a repository.
+   - I can do some tests with a different version.
+   - Maybe I need to work on a feature and in the staging area is a bugfix which is 
+     influenced from this feature.
