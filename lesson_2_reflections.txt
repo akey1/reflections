@@ -8,3 +8,10 @@ A: - The stagin area collects all files before I commit them into a repository.
    - I can do some tests with a different version.
    - Maybe I need to work on a feature and in the staging area is a bugfix which is 
      influenced from this feature.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: - I collect all changes in this area and then commit them together in one commit.
+
+Q: What are some situations when branches would be helpful in
+   keeping your history organized? How would branches help?
+A: - I need to switch between a bugfix and a feature.
