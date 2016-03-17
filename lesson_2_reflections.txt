@@ -18,3 +18,10 @@ A: - I need to switch between a bugfix and a feature.
 
 Q: How do the diagrams help you visualize the branch structure?
 A: - In a picture you can see faster and easier how the commits are connected together.
+
+Q: What is the result of merging two branches together?
+   Why do we represent it in the diagram the way we do?
+A: - All changes appear in git log.
+   - The changes of branches are now in master.
+   - Because it shows how the commits are connected together and when they go
+     a different way.
