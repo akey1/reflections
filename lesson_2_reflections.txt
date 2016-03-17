@@ -25,3 +25,7 @@ A: - All changes appear in git log.
    - The changes of branches are now in master.
    - Because it shows how the commits are connected together and when they go
      a different way.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: - You cannot be sure that it is logically working.
+   - In a fast forward merge it can be ok to do a automatic merge.
